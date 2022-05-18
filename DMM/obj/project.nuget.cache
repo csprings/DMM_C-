@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eX743TG8jPGowonpn/Tju/eZ2n1zFZRdTNoFIvPwaEpHFBW2B1DqHxHeGronnUQnbKyOZEeWuKeBZzAKOOxkPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\seokchoi\\Desktop\\C#\\DMM\\DMM\\DMM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\seokchoi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\seokchoi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\seokchoi\\.nuget\\packages\\opentap\\9.17.4\\opentap.9.17.4.nupkg.sha512"
+  ],
+  "logs": []
+}

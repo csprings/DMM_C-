@@ -1,0 +1,9 @@
+C:\Users\seokchoi\Desktop\C#\DMM\bin\Debug\DMM.deps.json
+C:\Users\seokchoi\Desktop\C#\DMM\bin\Debug\DMM.dll
+C:\Users\seokchoi\Desktop\C#\DMM\bin\Debug\DMM.pdb
+C:\Users\seokchoi\Desktop\C#\DMM\DMM\obj\Debug\DMM.csproj.AssemblyReference.cache
+C:\Users\seokchoi\Desktop\C#\DMM\DMM\obj\Debug\DMM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seokchoi\Desktop\C#\DMM\DMM\obj\Debug\DMM.csproj.CoreCompileInputs.cache
+C:\Users\seokchoi\Desktop\C#\DMM\DMM\obj\Debug\DMM.csproj.CopyComplete
+C:\Users\seokchoi\Desktop\C#\DMM\DMM\obj\Debug\DMM.dll
+C:\Users\seokchoi\Desktop\C#\DMM\DMM\obj\Debug\DMM.pdb
